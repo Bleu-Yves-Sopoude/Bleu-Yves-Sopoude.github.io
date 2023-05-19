@@ -147,7 +147,6 @@ I would like to thank my Microverse for this experience
 
 
 
-
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
