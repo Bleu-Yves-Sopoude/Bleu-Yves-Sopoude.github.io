@@ -59,7 +59,7 @@ HTML5  CSS3 JS
 
 > Add a link to your deployed project.
 
-- [Live Demo Link]
+- [Live Demo Link](https://bleu-yves-sopoude.github.io/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
