@@ -23,40 +23,40 @@ closeButton.addEventListener('click', closeM);
 
 
 const cardlist = [
-    {
-      imgUrl: 'static/card-pictures/guest1.jpg',
-      name: 'Nourat',
-      title: 'Afrcan Singer Artist',
-      description: 'Garo, better known by his stage name Singuila, is a French singer of Congolese and Central African origins',
-    },
-    {
-      imgUrl: 'static/card-pictures/guest2.jpg',
-      name: 'DIDI B',
-      title: 'Afrcan Singer',
-      description: 'Garo, better known by his stage name Singuila, is a French singer of Congolese and Central African origins',
-    },
-    {
-      imgUrl: 'static/card-pictures/guest3.jpg',
-      name: 'Baba',
-      title: 'Afrcan Singer ',
-      description: 'Garo, better known by his stage name Singuila, is a French singer of Congolese and Central African origins',
-    },
-    {
-      imgUrl: 'static/card-pictures/guest4.jpg',
-      name: 'DIDI B',
-      title: 'Afrcan Singer ',
-      description: 'Garo, better known by his stage name Singuila, is a French singer of Congolese and Central African origins',
-    },
-    {
-      imgUrl: 'static/card-pictures/guest5.jpg',
-      name: 'Singuila',
-      title: 'Afrcan Singer ',
-      description: 'Garo, better known by his stage name Singuila, is a French singer of Congolese and Central African origins',
-    },
-    {
-      imgUrl: 'static/card-pictures/guest6.jpg',
-      name: 'Safarel ',
-      title: 'Afrcan Singer ',
+  {
+    imgUrl: 'static/card-pictures/guest1.jpg',
+    name: 'Nourat',
+    title: 'Afrcan Singer Artist',
+    description: 'Garo, better known by his stage name Singuila, is a French singer of Congolese and Central African origins',
+  },
+  {
+    imgUrl: 'static/card-pictures/guest2.jpg',
+    name: 'DIDI B',
+    title: 'Afrcan Singer',
+    description: 'Garo, better known by his stage name Singuila, is a French singer of Congolese and Central African origins',
+  },
+  {
+    imgUrl: 'static/card-pictures/guest3.jpg',
+    name: 'Baba',
+    title: 'Afrcan Singer ',
+    description: 'Garo, better known by his stage name Singuila, is a French singer of Congolese and Central African origins',
+  },
+  {
+    imgUrl: 'static/card-pictures/guest4.jpg',
+    name: 'DIDI B',
+    title: 'Afrcan Singer ',
+    description: 'Garo, better known by his stage name Singuila, is a French singer of Congolese and Central African origins',
+  },
+  {
+    imgUrl: 'static/card-pictures/guest5.jpg',
+    name: 'Singuila',
+    title: 'Afrcan Singer ',
+    description: 'Garo, better known by his stage name Singuila, is a French singer of Congolese and Central African origins',
+  },
+  {
+    imgUrl: 'static/card-pictures/guest6.jpg',
+    name: 'Safarel ',
+    title: 'Afrcan Singer ',
     description: 'will take place on Tuesday March 12 in Abidjan',
   },
 ];
