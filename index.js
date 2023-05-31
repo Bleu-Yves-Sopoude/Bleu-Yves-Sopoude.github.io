@@ -21,7 +21,6 @@ function closeM() {
 openMenu.addEventListener('click', openM);
 closeButton.addEventListener('click', closeM);
 
-
 const cardlist = [
   {
     imgUrl: 'static/card-pictures/guest1.jpg',
