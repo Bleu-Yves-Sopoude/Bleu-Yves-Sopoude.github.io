@@ -5,15 +5,12 @@
   list-style-type: none;
 }
 
-
-
 body {
   margin: 0;
   font-family: 'Lato', Times, sans-serif;
 }
 
 .background {
-  
   position: absolute;
   top: 0;
   z-index: -2;
@@ -23,7 +20,6 @@ body {
   width: 100%;
   height: 600px;
   padding: 110px;
-  opacity: 1.0;
 }
 
 .background-gradient {
@@ -592,7 +588,6 @@ a {
   }
 
   .card {
-    
     display: flex;
     flex-direction: row;
     padding: 3%;
