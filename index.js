@@ -57,14 +57,14 @@ const cardlist = [
       imgUrl: 'static/card-pictures/guest6.jpg',
       name: 'Safarel ',
       title: 'Afrcan Singer ',
-      description: 'will take place on Tuesday March 12 in Abidjan',
-    },
-  ];
-  
-  let cardgenerator = '';
-  
-  cardlist.forEach((card) => {
-    cardgenerator += `
+    description: 'will take place on Tuesday March 12 in Abidjan',
+  },
+];
+
+let cardgenerator = '';
+
+cardlist.forEach((card) => {
+  cardgenerator += `
       <!-- recent work card ${card.id + 1} -->
       <div class="spk-card">
                   <img class=photo-sticker src="static/card-pictures/photo-sticker.png">
@@ -76,6 +76,6 @@ const cardlist = [
                   </div>
               </div>
       `;
-  });
-  
-  cards.innerHTML += cardgenerator;
+});
+
+cards.innerHTML += cardgenerator;
