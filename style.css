@@ -1,8 +1,6 @@
-
-* {
-  font-family: "Lato", Times, sans-serif;
-  text-decoration: none;
-  list-style-type: none;
+@font-face {
+  font-family: myFont;
+  src: url('CocogoosePro-trial.ttf');
 }
 
 body {
@@ -23,7 +21,7 @@ body {
 }
 
 .background-gradient {
-  background-color: #fff;
+  background-color: #d3d3d3;
   display: none;
   opacity: 0.96;
   position: absolute;
@@ -129,7 +127,8 @@ body {
   border-color: #ec5242;
   border-width: 4px;
   color: #ec5242;
-  margin-left: 8%;
+  margin-left: 12%;
+  margin-right: 95%;
 }
 
 /* ---------------iNTRO-SECTION------------ */
@@ -138,7 +137,7 @@ body {
   display: flex;
   flex-direction: row;
   justify-content: center;
-  background-color: #eeecec;
+  background-color: rgba(255, 255, 255, 0.1);
   opacity: 0.96;
   margin: 0;
 }
@@ -425,10 +424,12 @@ a {
     background-size: cover;
     top: 0;
     height: 300px;
+    
   }
 
   .background-gradient {
     height: 300px;
+    
   }
 
   .header-cont {
@@ -533,7 +534,7 @@ a {
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
-    background-color: #eeecec;
+    background-color: rgba(255, 255, 255, 0.3);
     opacity: 0.96;
   }
 
