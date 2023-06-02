@@ -8,11 +8,11 @@ function openM() {
   menu.style.display = 'flex';
   closeButton.style.display = 'block';
   openMenu.style.display = 'none';
-  bak.style.display = 'block';
+  bak.style.display = '';
 }
 
 function closeM() {
-  menu.style.display = 'none';
+  menu.style.display = ';
   closeButton.style.display = 'none';
   openMenu.style.display = 'block';
   bak.style.display = 'none';
